@@ -1,0 +1,5 @@
+Equipo	Puntaje
+river	30
+boca	11
+racing	3
+instituto	30
